@@ -1,0 +1,14 @@
+# EasyFreeze by Creeper215 | for any problems, contact @creeper215 on Disocrd or @Creeper215 on Telegram
+
+## Usage: /freeze <player> | /unfreeze <player> | /easyfreeze (Shows help)
+
+useunfreezehelp: Do /unfreeze <player> to unfreeze a player
+usefreezehelp: Do /freeze <player> to freeze a player
+targetnull: That target does not exist!
+noperms: You can't do that without permission!
+consoleunable: You can't execute this command from console!
+freezemessage: You freezed a player!
+unfreezemessage: You unfreezed a player!
+frozenplayermessage: A staffer freezed you! You can't move. | Open a ticket on discord.gg/yourserverminecraft
+configreloaded: The config got reloaded.
+nopermsreload: You can't do that without permission!

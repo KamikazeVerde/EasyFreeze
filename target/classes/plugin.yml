@@ -1,0 +1,18 @@
+name: EasyFreeze
+version: '1.0-SNAPSHOT'
+main: it.creeper.easyfreeze.EasyFreeze
+api-version: '1.16'
+commands:
+  freeze:
+    description: Freezes a player
+    usage: <command> [player]
+  unfreeze:
+    description: Un-freezes a player
+    usage: <command> [player]
+  easyfreeze:
+    description: Shows pl infos
+    usage: <command>
+  easyfreezereload:
+    description: Reloads the plugin config
+    usage: <command>
+
